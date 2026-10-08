@@ -5,6 +5,7 @@
 <p align="center">
   <img src="marquee.svg" alt="Hey, I'm Kiran - Full-Stack Developer, AI Enthusiast, Problem Solver, GenAI Explorer" width="800" />
 </p>
+
 ---
 
 <p align="center">
