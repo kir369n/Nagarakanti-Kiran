@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="luffy.gif" alt="Luffy coding" width="100%" />
+  <img src="luffy.gif" alt="Luffy coding" width="800" />
 </p>
 
 <p align="center">
